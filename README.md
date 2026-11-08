@@ -6,6 +6,6 @@ Founding Engineer at **BondScanner**, where I own identity and KYC, payments, an
 
 I care most about the parts that decide whether money moves correctly: idempotency, reconciliation, and failure handling.
 
-**Stack:** Go · Java · Spring Book · Kafka · PostgreSQL · Redis · Kubernetes
+**Stack:** Go · Java · Spring Boot · Kafka · PostgreSQL · Redis · Kubernetes
 
 [LinkedIn](https://www.linkedin.com/in/anantha-sai-avadhanam)
